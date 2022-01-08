@@ -1,0 +1,33 @@
+body {
+  background-color: #C2FFF9;
+}
+
+hr {
+  border-style: none;
+  background-color: #C2FFF9;
+  border-top-style: dotted;
+  border-color: #71DFE7;
+  border-width: 5px;
+  width: 5%;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: #009DAE;
+}
+
+h2 {
+  color: #009DAE;
+}
+
+h3 {
+  color: #71DFE7;
+}
+
+  link {
+    rel="icon" href="images/RLP.ico"
+  }
